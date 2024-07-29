@@ -2782,7 +2782,7 @@ input, select, textarea {
 				padding-left: 0;
 			}
 
-		ul.actions.stacked {
+		/* ul.actions.stacked {
 			-moz-flex-direction: column;
 			-webkit-flex-direction: column;
 			-ms-flex-direction: column;
@@ -2796,7 +2796,7 @@ input, select, textarea {
 
 				ul.actions.stacked li:first-child {
 					padding-top: 0;
-				}
+				} */
 
 		ul.actions.fit {
 			width: calc(100% + 1rem);
